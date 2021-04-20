@@ -20,12 +20,6 @@ topics:
   - name: DAMOSET
     web_url: https://schaefer-benjamin.github.io/DAMOSET/
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-
 projects:
   sort_by: pushed
   # sort_by options:
