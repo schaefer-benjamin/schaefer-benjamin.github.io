@@ -19,7 +19,7 @@ defaults:
 topics:
   - name: DRACOS
     web_url: https://schaefer-benjamin.github.io/DRACOS
-    image_url: https://raw.githubusercontent.com/schaefer-benjamin/DRACOS/main/Helmholtz-Logo-(English).jpg
+    image_url: https://raw.githubusercontent.com/schaefer-benjamin/DRACOS/main/Helmholtz-Logo.jpg
   
   - name: DAMOSET
     web_url: https://schaefer-benjamin.github.io/DAMOSET/
