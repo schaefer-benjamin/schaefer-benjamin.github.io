@@ -17,7 +17,11 @@ defaults:
       layout: "post"
 
 topics:
-  - name: DRACOS
+   - name: Institute website
+    web_url: https://www.iai.kit.edu/english/2154_4101.php
+    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/kit_logo_V2.svg
+    
+   - name: DRACOS
     web_url: https://schaefer-benjamin.github.io/DRACOS
     image_url: https://raw.githubusercontent.com/schaefer-benjamin/DRACOS/main/Helmholtz-Logo.jpg
   
@@ -25,9 +29,6 @@ topics:
     web_url: https://schaefer-benjamin.github.io/DAMOSET/
     image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/eu.png
 
-  - name: Institute website
-    web_url: https://www.iai.kit.edu/english/2154_4101.php
-    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/kit_logo_V2.svg
 
 
 projects:
