@@ -42,7 +42,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -54,8 +54,8 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: Dr_B_Schaefer
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://benjaminschaefer.org
   # youtube: your_username
