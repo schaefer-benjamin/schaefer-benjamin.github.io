@@ -19,8 +19,7 @@ defaults:
 topics:
    - name: personal website
     web_url: https://www.benjaminschaefer.org
-    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/benjamin2022.jpg
-    
+   
    - name: DRACOS
     web_url: https://schaefer-benjamin.github.io/DRACOS
     image_url: https://raw.githubusercontent.com/schaefer-benjamin/DRACOS/main/Helmholtz-Logo.jpg
