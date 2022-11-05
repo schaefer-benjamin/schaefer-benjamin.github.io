@@ -1,4 +1,4 @@
-Inlayout: sidebar
+layout: sidebar
 style: light
 
 plugins:
@@ -17,13 +17,14 @@ defaults:
       layout: "post"
 
 topics:
-   - name: DRACOS
-    web_url: https://schaefer-benjamin.github.io/DRACOS
-    image_url: https://raw.githubusercontent.com/schaefer-benjamin/DRACOS/main/Helmholtz-Logo.jpg
-    
-   - name: DAMOSET
+  - name: DAMOSET
     web_url: https://schaefer-benjamin.github.io/DAMOSET/
     image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/eu.png
+
+  - name: Institute website
+    web_url: https://schaefer-benjamin.github.io/DAMOSET/
+    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/logo.png
+
 
 
 projects:
@@ -55,5 +56,3 @@ projects:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
-
