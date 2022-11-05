@@ -21,10 +21,9 @@ topics:
     web_url: https://schaefer-benjamin.github.io/DAMOSET/
     image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/eu.png
 
-  - name: Institute website
-    web_url: https://schaefer-benjamin.github.io/DAMOSET/
-    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/logo.png
-
+  - name: Personal website
+    web_url: https://benjaminschaefer.org
+    image_url: https://raw.githubusercontent.com/schaefer-benjamin/schaefer-benjamin.github.io/master/benjamin2022.jpg
 
 
 projects:
